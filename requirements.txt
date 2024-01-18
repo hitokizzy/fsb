@@ -1,3 +1,3 @@
 Pyrogram
 TgCrypto
-Pyromod
+pyromod==1.3
