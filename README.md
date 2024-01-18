@@ -44,7 +44,9 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]((https://heroku.com/deploy?template=https://github.com/hitokizzy/fsb)</br>
+<h3 align="center">Click The Button</h3>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fhitokizzy%2Ffsb&template=https%3A%2F%2Fgithub.com%2Fhitokizzy%2Ffsb"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+</div>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
